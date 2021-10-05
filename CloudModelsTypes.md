@@ -26,3 +26,8 @@ El costo inicial de CapEx tiene un valor que se reduce con el tiempo
 ## Operational Expenditure (OpEx)
 Es el gasto en servicios o productos y ser facturado por ellos. Puede deducir este gasto en el mismo año en que es gastado. No tiene ningún costo inicial, se paga por un servicio y producto a medida que se consume.
 
+# Cloud Computing como un modelo basado en consumo
+* Sin costos iniciales
+* Sin necesidad de comprar y administrar infraestructura de alto costo que los usuarios no utilizarían en su totalidad.
+* La habilidad de comprar recursos adicionales cuando sean necesitados
+* La habilidad de detener el pago de recursos innecesarios.
